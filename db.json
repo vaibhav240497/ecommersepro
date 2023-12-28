@@ -1,0 +1,180 @@
+{
+  "seller": [
+    {
+      "name": "vaibhav",
+      "email": "vaibhav@se.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "rushi",
+      "email": "rushi@se.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "raj",
+      "password": "123",
+      "gmail": "raj@er",
+      "id": 3
+    },
+    {
+      "name": "ram",
+      "password": "abc@123",
+      "gmail": "ram@dev",
+      "id": 4
+    },
+    {
+      "name": "two",
+      "password": "abc@123",
+      "gmail": "two@2",
+      "id": 5
+    },
+    {
+      "name": "ek",
+      "password": "abc@123",
+      "gmail": "ek@re",
+      "id": 6
+    },
+    {
+      "observe": "response",
+      "id": 7
+    },
+    {
+      "observe": "response",
+      "id": 8
+    },
+    {
+      "observe": "response",
+      "id": 9
+    },
+    {
+      "observe": "response",
+      "id": 10
+    },
+    {
+      "observe": "response",
+      "id": 11
+    },
+    {
+      "observe": "response",
+      "id": 12
+    },
+    {
+      "observe": "response",
+      "id": 13
+    },
+    {
+      "name": "",
+      "password": "",
+      "gmail": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "password": "",
+      "gmail": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "password": "",
+      "gmail": "",
+      "id": 16
+    }
+  ],
+  "products": [
+    {
+      "name": "m12",
+      "price": "200000",
+      "color": "black",
+      "category": "mobile",
+      "description": "good",
+      "image": "https://images.unsplash.com/photo-1677144646095-ecd95d06cd71?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aXBob25lJTIwMTQlMjBwcm98ZW58MHx8MHx8fDA%3D",
+      "id": 5
+    },
+    {
+      "name": "fz",
+      "price": "120000",
+      "color": "red",
+      "category": "bike",
+      "description": "nice bike",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/296509883/GQ/RT/JF/187114653/yamaha-fz-fi-redefining-riding-bike.jpg",
+      "id": 6
+    },
+    {
+      "name": "rider",
+      "price": "250000",
+      "color": "red",
+      "category": "bike",
+      "description": "very fast bike super bike",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/tvs-raider-125-single-seat-disc1681388681668.jpg?q=80",
+      "id": 7
+    },
+    {
+      "name": "m20",
+      "price": "500000",
+      "color": "white",
+      "category": "car",
+      "description": "beutiful car",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "name": "ek",
+      "email": "ab@ab",
+      "password": "4567",
+      "id": 1
+    },
+    {
+      "name": "raj",
+      "email": "raj@123",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "ram",
+      "email": "ram@dev",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "rider",
+      "email": "rushi@se.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "ram",
+      "email": "ram@111",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "raj",
+      "email": "raj@123",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "raj",
+      "email": "raj@123",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "name": "ram",
+      "email": "ram@123",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "name": "ram",
+      "email": "ram@111",
+      "password": "12345",
+      "id": 9
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.signup{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    color: blueviolet;
+}
+
+.auth-toggle-links{
+    margin-top: 20px;
+    color: blueviolet;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+}
